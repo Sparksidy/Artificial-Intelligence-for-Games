@@ -155,6 +155,7 @@
     <ClCompile Include="Source\BehaviorTrees\Nodes\Decorator\D_Inverter.cpp" />
     <ClCompile Include="Source\BehaviorTrees\Nodes\InterrupterNode.cpp" />
     <ClCompile Include="Source\BehaviorTrees\Nodes\LeafNode.cpp" />
+    <ClCompile Include="Source\BehaviorTrees\Nodes\Leaf\L_ChangeBlue.cpp" />
     <ClCompile Include="Source\BehaviorTrees\Nodes\Leaf\L_CheckMouseClick.cpp" />
     <ClCompile Include="Source\BehaviorTrees\Nodes\Leaf\L_Idle.cpp" />
     <ClCompile Include="Source\BehaviorTrees\Nodes\Leaf\L_MoveToFurthestTarget.cpp" />
@@ -302,6 +303,7 @@
     <ClInclude Include="Source\BehaviorTrees\Nodes\Decorator\D_Inverter.h" />
     <ClInclude Include="Source\BehaviorTrees\Nodes\InterrupterNode.h" />
     <ClInclude Include="Source\BehaviorTrees\Nodes\LeafNode.h" />
+    <ClInclude Include="Source\BehaviorTrees\Nodes\Leaf\L_ChangeBlue.h" />
     <ClInclude Include="Source\BehaviorTrees\Nodes\Leaf\L_CheckMouseClick.h" />
     <ClInclude Include="Source\BehaviorTrees\Nodes\Leaf\L_Idle.h" />
     <ClInclude Include="Source\BehaviorTrees\Nodes\Leaf\L_MoveToFurthestTarget.h" />

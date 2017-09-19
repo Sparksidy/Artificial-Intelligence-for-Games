@@ -214,6 +214,7 @@
     <ClCompile Include="Source\BehaviorTrees\BlackBoards\TinyBlackBoard.cpp">
       <Filter>BehaviorTrees\BlackBoards</Filter>
     </ClCompile>
+    <ClCompile Include="Source\BehaviorTrees\Nodes\Leaf\L_ChangeBlue.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\MultiAnimation.h" />
@@ -446,6 +447,7 @@
     <ClInclude Include="Source\BehaviorTrees\BlackBoards\TinyBlackBoard.h">
       <Filter>BehaviorTrees\BlackBoards</Filter>
     </ClInclude>
+    <ClInclude Include="Source\BehaviorTrees\Nodes\Leaf\L_ChangeBlue.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Animation">
